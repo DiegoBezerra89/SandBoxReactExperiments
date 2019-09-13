@@ -11,5 +11,5 @@ This repository will be used to upload my basics codes on ReactJs, projects whic
 
 # Projects URL's
 [https://csb-zxzn4.netlify.com/](https://csb-zxzn4.netlify.com/) 
-This is a game of guesses, it consists on give some guesses to discover the number that you have in mind.
+This is a game of guesses, it consists on give some guesses to discover the number that you have thought.
 
