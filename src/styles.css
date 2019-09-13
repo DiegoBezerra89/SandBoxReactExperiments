@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: gainsboro;
+  text-align: center;
+  margin-top: 10em;
+}
+
+button {
+  margin-left: 1em;
+  color: dodgerblue;
+  border-radius: 0.5em;
+  padding: 0.5em;
+  background: white;
+}
