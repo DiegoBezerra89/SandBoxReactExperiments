@@ -1,8 +1,4 @@
-# SandBoxReactExperiments
-Created with CodeSandbox
-
 # Sandbox React Experiments
-
 This is my first repository about ReactJs, some of my basics experiments on this amazing library.
 
 
